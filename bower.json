@@ -2,10 +2,12 @@
   "name": "transatlantic-blog",
   "private": true,
   "dependencies": {
-    "jquery": "~2.1.1",
-    "underscore": "~1.6.0",
+    "angular": "~1.4.8",
+    "angular-material": "~0.11.4",
     "bourbon": "~4.0.2",
+    "jquery": "~2.1.1",
     "neat": "~1.6.0",
-    "normalize-css": "~3.0.1"
+    "normalize-css": "~3.0.1",
+    "underscore": "~1.6.0"
   }
 }
